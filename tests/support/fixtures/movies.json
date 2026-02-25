@@ -1,0 +1,82 @@
+{
+  "create": {
+    "title": "Guerra Mundial Z",
+    "overview": "Um ex-investigador da ONU viaja pelo mundo para conter uma pandemia que transforma pessoas em zumbis violentos, buscando a origem do surto antes que a humanidade entre em colapso.",
+    "company": "Paramount Pictures",
+    "release_year": 2013,
+    "featured": false,
+    "cover": "/images/guerra_mundial_z.png"
+  },
+  "exterminio_28_dias_depois": {
+    "title": "Extermínio",
+    "overview": "Após um vírus devastador se espalhar pelo Reino Unido, um homem acorda do coma e encontra Londres abandonada, precisando sobreviver a infectados extremamente agressivos.",
+    "company": "Fox Searchlight Pictures",
+    "release_year": 2002,
+    "featured": false,
+    "cover": "/images/exterminio_28_dias_depois.png"
+  },
+  "madrugada_dos_mortos": {
+    "title": "Madrugada dos Mortos",
+    "overview": "Sobreviventes de um apocalipse zumbi se refugiam em um shopping center enquanto tentam resistir às hordas de mortos-vivos que dominam a cidade.",
+    "company": "Universal Pictures",
+    "release_year": 2004,
+    "featured": false,
+    "cover": "/images/madrugada_dos_mortos.png"
+  },
+  "zumbilandia": {
+    "title": "Zumbilândia",
+    "overview": "Um estudante tímido e um caçador de zumbis atravessam os Estados Unidos pós-apocalíptico, formando um grupo improvável enquanto enfrentam mortos-vivos com humor.",
+    "company": "Columbia Pictures",
+    "release_year": 2009,
+    "featured": false,
+    "cover": "/images/zumbilandia.png"
+  },
+  "invasao_zumbi": {
+    "title": "Invasão Zumbi",
+    "overview": "Durante uma viagem de trem na Coreia do Sul, passageiros precisam lutar pela sobrevivência quando um vírus transforma a população em zumbis rápidos.",
+    "company": "Next Entertainment World",
+    "release_year": 2016,
+    "featured": false,
+    "cover": "/images/invasao_zumbi.png"
+  },
+  "todo_mundo_quase_morto": {
+    "title": "Todo Mundo Quase Morto",
+    "overview": "Um vendedor comum tenta reconquistar a namorada e salvar a mãe enquanto enfrenta um inesperado apocalipse zumbi em Londres.",
+    "company": "Universal Pictures",
+    "release_year": 2004,
+    "featured": false,
+    "cover": "/images/todo_mundo_quase_morto.png"
+  },
+  "rec": {
+    "title": "REC",
+    "overview": "Uma repórter acompanha bombeiros em um prédio isolado onde moradores passam a agir de forma violenta após uma misteriosa infecção.",
+    "company": "Filmax",
+    "release_year": 2007,
+    "featured": false,
+    "cover": "/images/rec.png"
+  },
+  "eu_sou_a_lenda": {
+    "title": "Eu Sou a Lenda",
+    "overview": "Após um vírus devastar a humanidade, um cientista imune vive isolado em Nova York tentando desenvolver uma cura enquanto enfrenta criaturas infectadas.",
+    "company": "Warner Bros. Pictures",
+    "release_year": 2007,
+    "featured": false,
+    "cover": "/images/eu_sou_a_lenda.png"
+  },
+  "a_noite_dos_mortos_vivos": {
+    "title": "A Noite dos Mortos-Vivos",
+    "overview": "Um grupo se abriga em uma casa isolada enquanto mortos retornam à vida e cercam o local, marcando um clássico do terror moderno.",
+    "company": "Continental Distributing",
+    "release_year": 1968,
+    "featured": false,
+    "cover": "/images/a_noite_dos_mortos_vivos.png"
+  },
+  "resident_evil_o_hospede_maldito": {
+    "title": "Resident Evil: O Hóspede Maldito",
+    "overview": "Uma equipe militar investiga um laboratório subterrâneo onde um vírus mortal foi liberado, transformando funcionários em zumbis.",
+    "company": "Screen Gems",
+    "release_year": 2002,
+    "featured": false,
+    "cover": "/images/resident_evil_o_hospede_maldito.png"
+  }
+}
