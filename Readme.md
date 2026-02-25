@@ -27,6 +27,3 @@ npx playwright test
 ```
 npx playwright show-report
 ```
-
-<hr>
-Curso disponível em https://qaxperience.com
