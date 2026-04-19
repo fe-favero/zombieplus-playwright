@@ -1,0 +1,66 @@
+{
+  "create": {
+    "title": "The Last of Us",
+    "overview": "Em um mundo devastado por uma infecção fúngica que transforma humanos em criaturas violentas, um homem endurecido e uma jovem imune atravessam os Estados Unidos em busca de esperança.",
+    "company": "Paramount Pictures",
+    "release_year": 2023,
+    "seasons": 1,
+    "featured": true,
+    "cover": "/covers/tvshows/the-last-of-us.jpg"
+  },
+  "search": {
+    "input": "dead",
+    "outputs": [
+      "The Walking Dead",
+      "Black Dead Summer",
+      "Kingdomdead Summer"
+    ],
+    "data": [
+      {
+        "title": "The Walking Dead",
+        "overview": "Após um apocalipse zumbi, um grupo de sobreviventes liderado por um ex-xerife luta para sobreviver enquanto enfrenta ameaças tanto dos mortos quanto dos vivos.",
+        "company": "Sony Pictures",
+        "release_year": 2010,
+        "seasons": 11,
+        "featured": false,
+        "cover": "/covers/tvshows/the-walking-dead.jpg"
+      },
+      {
+        "title": "Black Dead Summer",
+        "overview": "Nos primeiros dias de um apocalipse zumbi, uma mãe embarca em uma jornada desesperada para encontrar sua filha, enfrentando perigos constantes.",
+        "company": "Universal Pictures",
+        "release_year": 2019,
+        "seasons": 2,
+        "featured": false,
+        "cover": "/covers/tvshows/black-summer.jpg"
+      },
+      {
+        "title": "Kingdomdead Summer",
+        "overview": "Na Coreia medieval, um príncipe herdeiro investiga uma misteriosa praga que transforma pessoas em mortos-vivos enquanto luta contra conspirações políticas.",
+        "company": "Fox Entertainment",
+        "release_year": 2019,
+        "seasons": 2,
+        "featured": false,
+        "cover": "/covers/tvshows/kingdom.jpg"
+      }
+    ]
+  },
+  "to_remove": {
+    "title": "Z Nation",
+    "overview": "Anos após um apocalipse zumbi, um grupo escolta o único sobrevivente de uma mordida até um laboratório, acreditando que ele pode ser a chave para uma cura.",
+    "company": "Universal Pictures",
+    "release_year": 2014,
+    "seasons": 5,
+    "featured": false,
+    "cover": "/covers/tvshows/z-nation.jpg"
+  },
+  "duplicate": {
+    "title": "Fear the Walking Dead",
+    "overview": "Mostra o início do apocalipse zumbi sob a perspectiva de uma família disfuncional enquanto o mundo começa a desmoronar.",
+    "company": "Sony Pictures",
+    "release_year": 2015,
+    "seasons": 8,
+    "featured": false,
+    "cover": "/covers/tvshows/fear-the-walking-dead.jpg"
+  }
+}

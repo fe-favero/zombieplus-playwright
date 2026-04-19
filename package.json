@@ -9,5 +9,9 @@
     "@types/node": "^25.0.10",
     "pg": "^8.18.0"
   },
-  "scripts": {}
+  "scripts": {},
+  "dependencies": {
+    "dotenv": "^17.4.0",
+    "playwright-tesults-reporter": "^1.5.0"
+  }
 }
